@@ -1,0 +1,1 @@
+export default function Track() { return <h1>Track My Claim</h1>; }
